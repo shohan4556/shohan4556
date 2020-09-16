@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Ulka Games Ltd.
 - 🌱 I’m currently learning Unity ML, Python, Flask.
 - 👯 I’m looking to collaborate on a Local Startup project.
-- 🤔 I’m looking for help with content writing.
+- 🤔 I’m looking for help with Content writing.
 - 💬 Ask me about Idea, Startup, Strategy, Growth Hacking.
 - 📫 How to reach me: shohan4556@gmail.com
 - 😄 Pronouns: Shohan
