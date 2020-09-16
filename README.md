@@ -9,10 +9,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Ulka Games Ltd
-- 🌱 I’m currently learning Unity ML, Python, Flask
-- 👯 I’m looking to collaborate on Machine learning solution
-- 🤔 I’m looking for help with deploy ML solution
+- 🔭 I’m currently working on Ulka Games Ltd.
+- 🌱 I’m currently learning Unity ML, Python, Flask.
+- 👯 I’m looking to collaborate on a Local Startup project.
+- 🤔 I’m looking for help with content writing.
 - 💬 Ask me about Idea, Startup, Strategy, Growth Hacking.
 - 📫 How to reach me: shohan4556@gmail.com
 - 😄 Pronouns: Shohan
