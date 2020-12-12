@@ -9,9 +9,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Ulka Games Ltd.
-- 🌱 I’m currently learning Full Stack Javascript (MERN).
-- 👯 I’m looking to collaborate on a Local Startup project.
+- 🔭 I’m currently working on **Ulka Games Ltd**.
+- 🌱 I’m currently learning **node, express, socket**.
+- 👯 I’m looking to collaborate on a Local Startup project [Uprint](https://uprint-bd.herokuapp.com/)
 - 🤔 I’m looking for help with Content writing.
 - 💬 Ask me about Idea, Startup, Strategy, Growth Hacking.
 - 📫 How to reach me: shohan4556@gmail.com
