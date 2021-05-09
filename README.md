@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 ---
 
-<a href="https://github.com/shohan4556?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shohan4556&theme=tokyonight&hide_langs_below=0&title_color=FFFFFF" />
-</a>
 
 <a href="https://github.com/shohan4556">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shohan4556&show_icons=true&theme=tokyonight&line_height=40&title_color=FFFFFF"
