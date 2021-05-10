@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 <!--- 🔭 I’m currently working on **Ulka Games Ltd**.-->
-- 🌱 I’m currently learning **node, express, socket**.
+- 🌱 I’m currently learning **socket.io**.
 - 👯 I’m looking to collaborate on a Local Startup project [Uprint](https://uprint-bd.herokuapp.com/)
 - 🤔 I’m looking for help with Content writing.
 - 💬 Ask me about Idea, Startup, Strategy, Growth Hacking.
