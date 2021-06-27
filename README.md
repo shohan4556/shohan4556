@@ -9,11 +9,11 @@
 
 Here are some ideas to get you started:
 
-<!--- 🔭 I’m currently working on **Ulka Games Ltd**.-->
-- 🌱 I’m currently learning **socket.io**.
-- 👯 I’m looking to collaborate on a Local Startup project [Uprint](https://uprint-bd.herokuapp.com/)
-- 🤔 I’m looking for help with Content writing.
-- 💬 Ask me about Idea, Startup, Strategy, Growth Hacking.
+- 🔭 I’m currently working on **[Pixel Craft Studios Pte, Ltd](https://www.linkedin.com/company/pixelcraft-studios/)**
+- 🌱 I’m currently learning **ReactJs**.
+- 👯 I’m looking to collaborate on a very interesting thing ! 
+- 🤔 I’m looking for help with very interesting thing !
+- 💬 Ask me about History, Politics, Idea, Startup.
 - 📫 How to reach me: shohan4556@gmail.com
 - 😄 Pronouns: Shohan
 - ⚡ Fun fact: I am good listener, I like green tea.
