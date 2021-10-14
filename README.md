@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **[Pixel Craft Studios Pte, Ltd](https://www.linkedin.com/company/pixelcraft-studios/)**
-- 🌱 I’m currently learning **ReactJs**.
+- 🌱 I’m currently learning **very interesting things**.
 - 👯 I’m looking to collaborate on a very interesting thing ! 
 - 🤔 I’m looking for help with very interesting thing !
 - 💬 Ask me about History, Politics, Idea, Startup.
