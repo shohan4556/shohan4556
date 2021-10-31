@@ -30,6 +30,7 @@ Here are some ideas to get you started:
  ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
  ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+ ![Yarn](https://img.shields.io/badge/-Yarn-blue?style=flat-square&logo=yarn&logoColor=white)
  ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
