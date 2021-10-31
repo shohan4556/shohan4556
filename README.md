@@ -1,4 +1,4 @@
-### Hi there 👋  
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hi there, Nice to see you !
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shohanr/)
 
@@ -20,6 +20,20 @@ Here are some ideas to get you started:
 - :bulb: I'm freelancing want to [hire](https://www.upwork.com/freelancers/~01d01c629f05e66d8a) me ?
 ---
 
+### Things I code with
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+ ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+ ![Phaserjs](https://img.shields.io/badge/-Phaserjs-CB3837?style=flat-square&logo=Phaser&logoColor=red)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+ ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+ ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+ ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+ ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+ 
+---
 
 <a href="https://github.com/shohan4556">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shohan4556&show_icons=true&theme=tokyonight&line_height=40&title_color=FFFFFF"
