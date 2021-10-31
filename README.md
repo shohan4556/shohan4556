@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋  
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shohanr/)
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shohan4556@gmail.com
 - 😄 Pronouns: Shohan
 - ⚡ Fun fact: I am good listener, I like green tea.
-
+- :bulb: I'm freelancing want to [hire](https://www.upwork.com/freelancers/~01d01c629f05e66d8a) me ?
 ---
 
 
