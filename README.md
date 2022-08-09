@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **[Pixelcraft Studios Ltd (Singapore)](https://www.linkedin.com/company/pixelcraft-studios/)**
+- 🔭 I’m currently working on **blockchain, game development, meta verse, e-sports etc**
 - 🌱 I’m currently learning **very interesting things**.
 - 👯 I’m looking to collaborate on a very interesting thing ! 
 - 🤔 I’m looking for help with very interesting thing !
