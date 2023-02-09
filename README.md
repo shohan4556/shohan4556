@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shohan4556@gmail.com
 - 😄 Pronouns: Shohan
 - ⚡ Fun fact: I am good listener, I like green tea.
-- :bangladesh: Wanna Say [Hello](https://hello-shohan.herokuapp.com/) ?
 
 ---
 
